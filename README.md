@@ -5,7 +5,7 @@ No que consite este projeto:
 - Realizar carga de dados do arquivos para o Banco de Dados.
 - Transformar coluna "nascimento" para data.
 - Fazer consulta retornando mulheres de Meeren.
-- Receber o sexo (m ou f) como parâmetro, filtrar e retornar a lista
+- Receber o sexo (M ou F) como parâmetro, filtrar e retornar a lista
 de pessoas, ordenada por idade.
 
 ## Configurando o ambiente para executar a api.
