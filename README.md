@@ -54,3 +54,7 @@ Agora vamos acessar o seguinte endereço:
 
 Ou você pode ter acesso a admin do Django:
 [http://localhost:8000/admin](http://localhost:8000/admin)
+
+```
+Tú é um corno kkkkkkk
+```
