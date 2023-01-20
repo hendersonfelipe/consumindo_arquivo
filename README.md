@@ -54,3 +54,6 @@ Agora vamos acessar o seguinte endereço:
 
 Ou você pode ter acesso a admin do Django:
 [http://localhost:8000/admin](http://localhost:8000/admin)
+
+Vídeo Explicando a Instalação:
+[https://drive.google.com/file/d/1ax_D324RePV5iWc__lgQkANcHyIRDSX_/view?usp=sharing](https://drive.google.com/file/d/1ax_D324RePV5iWc__lgQkANcHyIRDSX_/view?usp=sharing)
