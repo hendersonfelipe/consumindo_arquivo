@@ -11,7 +11,7 @@ de pessoas, ordenada por idade.
 ## Configurando o ambiente para executar a api.
 Faça o download deste repositório:
 ```
-$ git clone git@github.com:hendersonfelipe/consumindo_arquivo.git
+$ git clone https://github.com/hendersonfelipe/consumindo_arquivo.git
 ```
 
 Crie um ambiente virtual e instale a bibliotecas disponíveis no 
