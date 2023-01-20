@@ -30,7 +30,7 @@ $ .\venv\Scripts\Activate
 
 Depois de ativado, instale as bibliotecas necessárias para executar o projeto:
 ```
- (venv)$ pip install -r requeriments.txt
+ (venv)$ pip install -r requirements.txt
 ```
 
 Para fazermos o primeiro acesso e poder configurar a aplicação, vamos executar o comando 
